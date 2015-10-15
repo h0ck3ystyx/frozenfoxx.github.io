@@ -7,5 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://churchoffoxx.net" # the base hostname & protocol for your site
 twitter_username: frozenfoxx
 github_username:  frozenfoxx
+wiki: "https://wiki.churchoffoxx.net"
 # Build settings
 markdown: kramdown
