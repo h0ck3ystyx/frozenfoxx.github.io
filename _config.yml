@@ -10,3 +10,4 @@ github_username:  frozenfoxx
 wiki: "https://wiki.churchoffoxx.net"
 # Build settings
 markdown: kramdown
+paginate: 10
