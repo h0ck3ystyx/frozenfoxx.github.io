@@ -15,12 +15,12 @@ To get this working it's critical that you make an *environment.conf* or just us
 
 - removed Puppet 3
 - installed Puppet 4 (puppet-agent)
-- `mkdir /etc/puppetlabs/r10k`
+- *mkdir /etc/puppetlabs/r10k*
 - created an r10k.yaml that specified the :datadir: as */etc/puppetlabs/code/hieradata*
 - created my */etc/puppetlabs/code/hieradata/common.yaml*
-- ran `/opt/puppetlabs/puppet/bin/gem install r10k`
-- ran `/opt/puppetlabs/puppet/bin/r10k deploy environment -pv`
+- ran */opt/puppetlabs/puppet/bin/gem install r10k*
+- ran */opt/puppetlabs/puppet/bin/r10k deploy environment -pv*
 - commited my *environment.conf* into the base of the repo (deployed by *r10k*)
-- ran `/opt/puppetlabs/puppet/bin/puppet apply /etc/puppetlabs/code/environments/production/manifests/site.pp`
+- ran */opt/puppetlabs/puppet/bin/puppet apply /etc/puppetlabs/code/environments/production/manifests/site.pp*
 
 That's not alot of awful steps, but I had to research a few of them my first time deploying Puppet 4.  It really feels like a few of these should be set up automatically, like a skeleton of the *site/* directory and the *environment.conf*. Still, with these minor complaints aside at my work I've been rocking out a more robust version of this setup for months without issue.  This site's repo should give you a very good idea once more about how you can get started in rolling out your own awesome Puppet setup.
