@@ -10,7 +10,7 @@ Heroes of the Storm is great, and you should play it.  Yes, you, and I'm well aw
 
 ![RIOT](/images/demotivation.us_RIOT-WTF-is-this-shit_134073131930.jpg)
 
-##Gameplay##
+## Gameplay
 
 ![n00b friendly](/images/noob_medium.gif)
 
@@ -18,7 +18,7 @@ At its heart Heroes of the Storm (HOTS) is a MOBA game.  Now Blizzard is trying 
 
 If this sounds kinda like real-time strategy to you and you haven't played a MOBA game before you're not far off.  It's effectively trying to distill down most of the stuff you do in a more traditional RTS down to some simpler elements and, generally, it can work really well.  You're still effectively doing the same kinds of things, having your power unit (your hero) leading your lesser using (automatically spawned minions) against the enemy front (their towers, minions, and heroes) and using your tactical abilities combined with movement to take the fight to them whilst balancing pressure, defense, and upgrading.
 
-##What's Different?##
+## What's Different?
 
 ![Change is life and life is pain](/images/change-funny-motivational-poster.jpg)
 
@@ -30,7 +30,7 @@ It's pretty hard to talk about the gameplay though without explaining why it's d
 
 All of these things are, in my opinion, dealt with expertly in HOTS.
 
-##Game Length##
+## Game Length
 
 ![And evil time machine](/images/funny-time-money-quote.jpg)
 
@@ -38,7 +38,7 @@ So the first thing that jumps out at you is that unlike League of Legends and DO
 
 HOTS on the other hand keeps things short and simple.  It leads to relatively quick, furious battles with lots of action in a very short span of time.  As a result if you have a good time it's immediate and if you have a bad time it's over quick enough that you can try again immediately.  This is also great for people who make only have an hour to play and want to do at least one, but possibly two or even three games.  I personally like this kind of respect for people's time as while __I__ can afford to spend a lot of time gaming not everyone can.  This way they widen the pool of people you can play with whilst simultaneously taking care of issues like players dropping out of a match (there's not a lot of incentive to, given how fast they go).
 
-##Upgrade Complexity##
+## Upgrade Complexity
 
 ![High tech upgrades](/images/12422596.jpg)
 
@@ -46,7 +46,7 @@ Oh boy, upgrades.  In League of Legends and DOTA 2 you generally get upgraded by
 
 In HOTS there is no store.  None.  Zero.  Instead every few levels you get to choose a perk (kinda like in World of Warcraft) from two to four available at each level.  You can do this at any time as well, even in battle.  What this does is give you a chance to adjust your abilities to suit the game at hand as opposed to mechanically running through a complex build that's not really possible for most people to adjust on the fly.  Getting your butt kicked by ranged heroes?  Pick the perk that lets you close the distance faster.  Beating up on minions more than heroes?  Pick the perk that lets you do extra damage to them.  This system is not only simple to use but still provides great tactical complexity and allows you to make MORE decisions during the game, making you feel less like a data entry clerk.
 
-##Teamwork##
+## Teamwork
 
 ![Fascism Humor](/images/Darth_52a8a7_202445.jpg)
 
@@ -56,7 +56,7 @@ HOTS provides a few tweaks to make your life with your fellow teammates a hell o
 
 They also have multiple maps (thank God, I personally HATE seeing the same map over and over again) and each one has a unique gameplay hook as well that requires use of the team, such as collecting skulls to summon a special bad guy, or collecting spawned control points to "curse" your enemy's towers and heroes.  These are fun, simple to understand, and encourage teamwork.  On top of that they're a GREAT way to come back from the brink of defeat if the enemy team is really steamrolling through you, leading to a large amount of pitched battles back and forth, victory seemingly always within grasp.
 
-##The Storm Calls##
+## The Storm Calls
 
 So should you play Heroes of the Storm?  Honestly, especially given that it's free to play, has weekly free hero rotations, and all of the above you absolutely should try it out.  This is probably the most fun I've had in a multiplayer game in awhile and that's quite a surprise for me since I normally hate these kinds of games.  Plus, if you're a Blizzard fan, all of your favorite characters and more from every game they've made are either here already or going in shortly.  You always wanted to kick ass as Thrall?  Wanted to burn and pillage as the mighty Diablo?  Shut down enemies from afar with futuristic tech as Nova?  This game already has all of those and many, many more.
 
