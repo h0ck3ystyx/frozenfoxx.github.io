@@ -10,7 +10,7 @@ The in-game footage for the new Doom (2016) has been making its way out of E3 20
 
 ![Such examination, wow](/images/d8f30358efc1b566177130d14b628f85_f29.png)
 
-##What is Doom?##
+## What is Doom?
 
 Naturally Doom is widely recognized as the game that popularized and in many ways created the first person shooter back in 1993.  At first it looks like it's about shooting and while true there IS a lot of shooting that's not really the primary tool used.  The wonderful analysis at [http://vectorpoem.com/news/?p=74](http://vectorpoem.com/news/?p=74) did an excellent job of scratching the surface of what Doom's actually all about (and I highly recommend reading it).  Doom is not so much about shooting as it is about *movement*.
 
@@ -24,7 +24,7 @@ Finally the weaponry in Doom is great all around.  Every weapon is increasing in
 
 What this all combines into is a fast-paced, active game.  It relies some on reflexes early on but the more you learn about movement, positioning, and weapon choice reveals a newer, deeper game that is about optimizing weapon choice, target priority, and speed as a ultimate defensive and offensive tool.  It makes the player feel empowered because not only is the player given the freedom and speed of movement to go wherever they wish in a virtual world but it allows the player to choose how they wish to engage and solve tactical puzzles.  It's gameplay that feels just as fresh today as it did over twenty years ago.
 
-##The New Contenders##
+## The New Contenders
 
 There have been a number of shooters obviously in the two decades running since Doom's splash and there's, like with any medium, inspirations, derivations, and iterations.  Early on there was even an era of "doom clones" where various studios would tweak the Doom formula, artwork, and similar lightly and release it as a new game.  Further on, especially since the releases of Quake and Unreal shooters continued to evolve in complexity and presentation.  So how come nothing else has taken the crown from Doom/Quake/Unreal?
 
@@ -38,11 +38,11 @@ F.E.A.R. is probably the closest we've been.  Quick but not too quick, carrying 
 
 Many have come close but we're still waiting on a new Doom.
 
-##Everything is New Again##
+## Everything is New Again
 
 So, naturally, where does that leave us with the new Doom?  Unfortunately until the game actually comes out this is only speculation but given we've come this far, why not?  Well the short of it is that it's looking an awful lot more like Doom 1/2 than Doom 3, only the character models seem to share much in common with Doom 3.  There's definitely some interesting changes so let's break them down while remembering that of course this IS just speculation.
 
-###Movement###
+### Movement
 
 ![Seriously](/images/1a2a5a701595c73d02c2eeee3b1004aa26420a8b4fd1439f67c7559f9976c1e8.jpg)
 
@@ -50,7 +50,7 @@ When watching the first gameplay trailer it starts off slow which is a worrying 
 
 Movement even improves when we see the second gameplay trailer.  It's already more evolved and features the player being able to circle-strafe enemies, dodge left and right around enemy projectiles, close distance for punishing hits and increase distance from powerful melee attacks at the player's whim.  These are all excellent and show much promise for Doom's most immersive feature.
 
-###Environment###
+### Environment
 
 The original Doom's environment was quite striking.  Running the gamut from hellscapes to industrial complexes, dark corners and bright arenas, and everywhere technology either run awry or existing in unholy fusion.  Without being told a thing it's pretty obvious to the player that something has gone pretty awfully wrong here and they are likely trying to escape or destroy it.  That said, they also had excellent design that facilitated speed as a tool, multiple ranges, and even exploration.
 
@@ -62,7 +62,7 @@ The second gameplay footage shows more of an arena area in Hell.  This is quite 
 
 Both of these environments show us intelligent placement of obstacles, good visual fusion of technology with demonic elements, creating a tense place of horror whilst also allowing experimentation with combat.  While it's dark in tone it's not dark in lighting showing that id apparently has finally grasped what fans meant when they say the original Doom is dark, unlike Doom 3 which is visually dark.  In the first gameplay footage it also appears there's an element of exploration though it's hard to tell for certain without more gameplay.  Still, this is definitely promising.
 
-###Weaponry###
+### Weaponry
 
 Simply put, the weaponry in the new Doom looks awesome.  Visceral, great sound and effects when blowing through enemies, and look like a lot of fun to use.  They also so far seem to have returned to "right tool for the job" with a weapon wheel, clearly quite a few weapons each suited to a different range and enemy type on tap, and the player uses many of them quite effectively against different types of foes (the rocket launcher is great against heavier enemies, the shotgun's great against lower enemies, etc).
 
@@ -74,7 +74,7 @@ Interestingly, so far it looks like the ammo counts are lower.  This is actually
 
 To this end while there ARE pickups in the environment it appears that the player gets ammo and health from the enemies themselves.  While there have been similar systems (even in Doom enemies can drop ammo) it's never been quite in this way.  Since you want the player engaged in combat and not worrying about things outside of it often (given this is a game with a lot of combat) having the enemies drop pickups the player needs, particularly health, is a great idea.  Bloodborne actually has a similar system in that if you get hit by an enemy you can quickly attack them and gain that health back.  It keeps the player engaged and aware of punishment but allowing for some failure without a game over.  With this in mind I personally think occasionally dropping health and ammo from enemies is brilliant since it means the player will stay focused on the fun part of the game, the combat.
 
-###Enemies###
+### Enemies
 
 ![Because regular demons aren't tough enough](/images/41cc52514b6ba5cc0418f5ee92293c19_f38.png)
 
@@ -84,7 +84,7 @@ If you wish to empower a player (which you definitely should in this sort of gam
 
 Proof positive of this is to look closely at the second gameplay footage in Hell.  The player starts with only a few enemies and more are either warped in or make an entrance.  Every time it is in such a way that the player isn't denied choosing how to engage.  It means a constant onslaught is tense but never feels unfair.  We even see this in the first gameplay footage with some of the enemies warping in in the middle of combat in *front* of the player, never right behind.  It not only looks cool, it really helps push target priority and decrease reliance on reflexes (making the player smarter, not just faster).
 
-###Oddities###
+### Oddities
 
 ![Context - the key to humor](/images/context.jpg)
 
@@ -96,7 +96,7 @@ I personally like the new music.  The original Doom's ambient music was great an
 
 There's also a whole lot of promise in SnapMap but I think that's going to need a whole discussion on its own.  In short, I think it looks like it's going to return the simple, elegant fun of making maps and modding Doom to the people who love to play it, something the original was so good at but got lost along the way to the modern shooters.  That alone is quite a feat and to be celebrated.
 
-##I Believe in Doom##
+## I Believe in Doom
 
 When looking for reactions on the new Doom footage I've noticed quite a few people in the various comments fields on YouTube, Facebook and the like say something along the lines of, "it looks like a shooter I've played before."  I should hope so.  I really hope the game it reminds you of is the original Doom.  It's possible for it to go badly but so far this looks like one of the first shooters in a very long time that looks like __*FUN*__ to play. 
 
