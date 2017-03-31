@@ -13,7 +13,7 @@ Unlike many people posting on the rage-o-sphere that is the popular Internet I d
 
 ![Destiny in a Nutshell](/images/destinyrockdemotivator.jpg)
 
-##Story / Setting##
+## Story / Setting
 
 Surprisingly Destiny's story is not bad at all.  No, I'm not talking about the horrifically voice-acted and poorly scripted dialogue or the numerous plot events bearing examination that never will be as those pretty firmly fall within the realm of "plot" or the literal "stuff that happens." By "story" I mean the WHY of things happening, the undercurrent of motivations, settings, feelings, and other things that you as a player / reader / viewer actually connect with.  Games, being an interactive medium, actually have some more subtle (and not so subtle) elements of story as opposed to books and film so let's break them down a bit.
 
@@ -27,9 +27,9 @@ Surprisingly Destiny's story is not bad at all.  No, I'm not talking about the h
 
 These things combine to give you the "feel" of the game, the story.  In this regard, Destiny actually succeeds in many ways that I don't think people give Bungie enough credit for.  There are numerous instances where a great scripted event occurs in Destiny that makes it blindingly obvious as to what's going on.  Turning the corner in a complex to reveal a long, drawbridge-like entrance, complete with a gate at the end, and suddenly a dozen beefy, angry-looking guards jump onto the bridge in formation tells you pretty obviously that you're storming a castle, these are the guards, and there's likely something epic inside.  Having dozens and dozens of enemies that you can mow down makes you FEEL every bit as powerful as the numbers say you should be.  Your weaponry is pretty familiar in design, it's all stuff similar to what we use today, just stylized but your enemies use things like lazer rifles and such.  This makes you feel, given its futurist, sci-fi setting, like your character is part of a scrappy resistance, using weaponry from bygone eras.  That's good, and it's a great feeling to be "old but still kicking ass." 
 
-So all that said what's bad about the story?  Well, simply put, there's note enough exploration through the plot.  You end up with a lot of questions, like how come you were apparently dead for years and then suddenly brought back with little-to-no brain damager.'' As nicely designed as the levels are, you end up playing the same ones over, and over, and over.  There's not exactly a wealth of environments to choose from so it really doesn't take long to burn through all the scenarios, making it feel shorter than before.
+So all that said what's bad about the story?  Well, simply put, there's note enough exploration through the plot.  You end up with a lot of questions, like how come you were apparently dead for years and then suddenly brought back with little-to-no brain damage?  As nicely designed as the levels are, you end up playing the same ones over, and over, and over.  There's not exactly a wealth of environments to choose from so it really doesn't take long to burn through all the scenarios, making it feel shorter than before.
 
-##Controls##
+## Controls
 
 The controls are literally the most important part of a game.  They are how you affect the world, how you play, and how you translate your will into the confines of the game at hand (ha).  Destiny's controls are absolutely superb but also reveal much about why I stopped playing it.  In short, Destiny, from a control perspective, is Halo.  This isn't much of a surprise given that Bungie made Halo and set a dual-stick standard but what's odd about it in hindsight is that it is very nearly EXACTLY Halo.
 
@@ -37,7 +37,7 @@ Now I love Halo (well, up through Reach anyway).  It's not for everybody, it's a
 
 I feel like Bungie is telling me they want me to be comfortable but not ask for them to push my expectations.  If that's the idea then message received, but I was definitely hoping Destiny would challenge some old Bungie standby designs.  Considering this is the company that pretty much established this control scheme with the original Halo, challenging the conventions of the time, I suppose I was expecting something a little different again.
 
-##Group Dynamics / Social##
+## Group Dynamics / Social
 
 Let's start with something I like:  Destiny is a small fireteam game.  I've played big detachment games (like Battlefield, WoW, and other games with tons of people) but secretly I love small, focused gameplay on small, highly adaptable teams.  Commandos, if you will.  
 
@@ -53,7 +53,7 @@ So if Destiny doesn't have any text chat, and there's no incentive for free-for-
 
 To be completely and totally fair, you COULD go to somewhere like Reddit to look up similar people but that's precisely the problem:  it forces me to go OUT of your game.  The more time I spend outside of your game, the more I realize I have stuff OTHER than your game to do.  Sending your users outside of your game, except in certain particular extremely rare circumstances (some adventure/puzzle games, games that are widely open to interpretation and story-sharing) you NEVER want the user to log out of your game.  Regardless of whether you like him or not, Cliff Bleszinski is absolutely right ([https://twitter.com/therealcliffyb/status/347497117864054784](https://twitter.com/therealcliffyb/status/347497117864054784)):  ""Do whatever it takes to keep that disc in that tray" is the mantra of developers in a disc based world." By extension, keeping me seated in front of your game and NOT getting up to go and do other things is something you want to encourage, not discourage.
 
-##Beyond Destiny##
+## Beyond Destiny
 
 If you need a TL;DR, play Warframe.  It's basically Destiny++, even visually:
 
